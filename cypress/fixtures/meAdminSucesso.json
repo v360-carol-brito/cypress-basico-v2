@@ -1,0 +1,12 @@
+{
+  "id":1202,
+  "name":"Carolina Brito",
+  "email":"carolina.brito@varejo360.com",
+  "gender":"F",
+  "active":true,
+  "reset":false,
+  "notification":true,
+  "company":{"id":1},
+  "admin":true,
+  "configs":"{\n    \"query_config\": {\n        \"lista_nome_fornecedor\": \"'RAROZ'\",\n        \"unidade_padrao\": \"volume\",\n        \"canal_estabelecimento\": \"MINIMERCADO\"\n    }\n}"
+}
