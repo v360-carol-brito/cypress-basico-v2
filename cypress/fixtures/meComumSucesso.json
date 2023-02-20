@@ -1,0 +1,11 @@
+{"id":3741,
+  "name":"User M2.21",
+  "email":"carolina.brito+m22@meuvarejo360.com.br",
+  "gender":"M",
+  "active":true,
+  "reset":false,
+  "notification":true,
+  "company":{"id":264},
+  "admin":false,
+  "configs":"{}"
+}
